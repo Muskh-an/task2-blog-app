@@ -1,1 +1,71 @@
+# PHP CRUD Blog Application
+
+A simple Blog Management System built using PHP and MySQL.
+
+## Features
+
+- User Registration
+- User Login
+- Password Hashing
+- Session Management
+- Create Posts
+- Read Posts
+- Update Posts
+- Delete Posts
+
+
+## Technologies Used
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- XAMPP
+
+
+## Project Files
+
+- config.php - Database connection
+- register.php - User registration
+- login.php - User login
+- dashboard.php - User dashboard
+- create.php - Add new posts
+- read.php - View posts
+- update.php - Edit posts
+- delete.php - Remove posts
+- logout.php - Logout functionality
+- style.css - Styling
+
+
+## Database
+
+Database Name:
+
+blog
+
+
+Tables:
+
+### users
+
+- id
+- username
+- password
+
+
+### posts
+
+- id
+- title
+- content
+- created_at
+
+
+## How To Run
+
+1. Install XAMPP
+
+2. Start Apache and MySQL
+
+3. Place project folder inside:
 
